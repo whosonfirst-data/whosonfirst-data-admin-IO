@@ -1,0 +1,64 @@
+{
+  "id": 1226360635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.46823,-7.35278,72.46823,-7.35278",
+    "geom:latitude":-7.35278,
+    "geom:longitude":72.46823,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"East Point Settlement",
+    "gn:country_code":"IO",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6904653,
+    "gn:latitude":-7.35278,
+    "gn:longitude":72.46823,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"East Point Settlement",
+    "gn:population":0,
+    "gn:timezone":"Indian/Chagos",
+    "iso:country":"IO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "East Point Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6904653
+    },
+    "wof:country":"IO",
+    "wof:geomhash":"178c37734db4b99abd091de5cf4cb503",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226360635,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226360635,
+    "wof:lastmodified":1537637765,
+    "wof:name":"East Point Settlement",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-io",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.46823,
+    -7.35278,
+    72.46823,
+    -7.35278
+],
+  "geometry": {"coordinates":[72.46823000000001,-7.35278],"type":"Point"}
+}

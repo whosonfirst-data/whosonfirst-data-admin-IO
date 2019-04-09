@@ -1,0 +1,64 @@
+{
+  "id": 1209116297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.37747,-7.26181,72.37747,-7.26181",
+    "geom:latitude":-7.26181,
+    "geom:longitude":72.37747,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Downtown",
+    "gn:country_code":"IO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7503195,
+    "gn:latitude":-7.26181,
+    "gn:longitude":72.37747,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Downtown",
+    "gn:population":0,
+    "gn:timezone":"Indian/Chagos",
+    "iso:country":"IO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Downtown"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7503195
+    },
+    "wof:country":"IO",
+    "wof:geomhash":"a6022decdf32777331e354473e1511f8",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632459,
+            "locality_id":1209116297
+        }
+    ],
+    "wof:id":1209116297,
+    "wof:lastmodified":1537637765,
+    "wof:name":"Downtown",
+    "wof:parent_id":85632459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-io",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.37747,
+    -7.26181,
+    72.37747,
+    -7.26181
+],
+  "geometry": {"coordinates":[72.37747,-7.26181],"type":"Point"}
+}

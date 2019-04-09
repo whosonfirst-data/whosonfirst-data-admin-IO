@@ -1,0 +1,218 @@
+{
+  "id": 85681249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.004016,
+    "geom:area_square_m":49274827.844126,
+    "geom:bbox":"71.2609969413,-7.43222421657,72.494639519,-5.22698333092",
+    "geom:latitude":-7.144331,
+    "geom:longitude":72.298815,
+    "gn:id":"",
+    "iso:country":"IO",
+    "lbl:latitude":-7.297662,
+    "lbl:longitude":72.398825,
+    "mps:latitude":-7.297662,
+    "mps:longitude":72.398825,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "name:dan_x_preferred":[
+        "Det Britiske Territorium i Det Indiske Ocean"
+    ],
+    "name:deu_x_preferred":[
+        "Britische Territorium im Indischen Ozean"
+    ],
+    "name:eng_x_preferred":[
+        "British Indian Ocean Territory"
+    ],
+    "name:eng_x_unknown":[
+        "IO"
+    ],
+    "name:fin_x_colloquial":[
+        "Brittilainen Intian valtameren alue"
+    ],
+    "name:fin_x_preferred":[
+        "Brittil\u00e4inen Intian valtameren alue"
+    ],
+    "name:fra_x_colloquial":[
+        "Territoire Britannique de l'Ocean Indien"
+    ],
+    "name:fra_x_preferred":[
+        "Territoire Britannique de l'Oc\u00e9an Indien"
+    ],
+    "name:ita_x_preferred":[
+        "Territorio Britannico dell'Oceano Indiano"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30ae\u30ea\u30b9\u9818\u30a4\u30f3\u30c9\u6d0b\u5730\u57df"
+    ],
+    "name:jpn_x_variant":[
+        "\u82f1\u9818\u30a4\u30f3\u30c9\u6d0b\u5730\u57df"
+    ],
+    "name:kor_x_preferred":[
+        "\uc601\uad6d\ub839\uc778\ub3c4\uc591\uc2dd\ubbfc\uc9c0"
+    ],
+    "name:nor_x_preferred":[
+        "Det britiske territoriet i Indiahavet"
+    ],
+    "name:por_x_colloquial":[
+        "Territorio Britanico do Oceano Indico"
+    ],
+    "name:por_x_preferred":[
+        "Territ\u00f3rio Brit\u00e2nico do Oceano \u00cdndico"
+    ],
+    "name:swe_x_preferred":[
+        "Brittiska territoriet i Indiska oceanen"
+    ],
+    "name:zho_x_preferred":[
+        "\u82f1\u5c5e\u5370\u5ea6\u6d0b\u9886\u571f"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"IOT",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"IOT+00?",
+    "ne:adm1_code":"IOT+00?",
+    "ne:admin":"British Indian Ocean Territory",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"IO",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"10085",
+    "ne:featurecla":"Admin-1 aggregation",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"British Indian Ocean Territory",
+    "ne:gn_a1_code":"IO.00",
+    "ne:gn_id":"6620383",
+    "ne:gn_level":"1",
+    "ne:gn_name":"British Indian Ocean Territory (general)",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"IOT",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"IO-",
+    "ne:iso_a2":"IO",
+    "ne:labelrank":"20",
+    "ne:latitude":"-5.28054000000",
+    "ne:longitude":"71.74250000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":6,
+    "ne:name":"British Indian Ocean Territory",
+    "ne:name_alt":"",
+    "ne:name_len":30,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"GB1",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":23424849,
+    "ne:woe_label":"",
+    "ne:woe_name":"British Indian Ocean Territory",
+    "qs:a0":"British Indian Ocean Territory",
+    "qs:a0_lc":"IO",
+    "qs:a1":"British Indian Ocean Territory",
+    "qs:a1_lc":"IOT+00?",
+    "qs:adm0":"British Indian Ocean Territory",
+    "qs:adm0_a3":"IOT",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Admin-1 aggregation",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2000-01-01",
+    "statoids:area_km":"60",
+    "statoids:area_mi":"23",
+    "statoids:as_of_date":"2000-01-01",
+    "statoids:capital":"",
+    "statoids:country":"IO",
+    "statoids:gec":"IO",
+    "statoids:hasc":"IO.IO",
+    "statoids:iso":"IO",
+    "statoids:name":"British Indian Ocean Territory",
+    "statoids:population":"0",
+    "statoids:timezone":"+6",
+    "statoids:type":"possession of GB",
+    "wd:wordcount":3658,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102193527,
+        85632459,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"IO",
+        "gn:id":6620383,
+        "gp:id":23424849,
+        "hasc:id":"IO.IO",
+        "iso:id":"IO-IO",
+        "qs:id":220221,
+        "wd:id":"Q43448"
+    },
+    "wof:country":"IO",
+    "wof:geomhash":"b362db6b7ff2c169c183cd0b48580e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":-1,
+            "dependency_id":85632459,
+            "empire_id":136253055,
+            "region_id":85681249
+        }
+    ],
+    "wof:id":85681249,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1536616805,
+    "wof:name":"British Indian Ocean Territory",
+    "wof:parent_id":85632459,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"possession of GB",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-io",
+    "wof:superseded_by":[
+        85632459
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.26099694125588,
+    -7.4322242165743,
+    72.49463951899867,
+    -5.22698333091591
+],
+  "geometry": {"coordinates":[[[[72.43897545665203,-7.34026458034606],[72.43287194138702,-7.42538827904582],[72.44320722733175,-7.41643645617745],[72.46753991053851,-7.38388437236586],[72.47152754046368,-7.37908294052522],[72.47478274812539,-7.37656015332834],[72.47771243627994,-7.37281666505697],[72.48031660222949,-7.36467864410412],[72.48316490983279,-7.37029387786015],[72.48462975435973,-7.3759091125155],[72.48414147195143,-7.38250090839017],[72.48064212353523,-7.3905575496911],[72.47266686278556,-7.39999765406844],[72.4441024097984,-7.42498137808809],[72.43287194138702,-7.4322242165743],[72.42693118632525,-7.40398528399362],[72.43287194138702,-7.34677499746812],[72.42603600385854,-7.32293059666966],[72.41944420708455,-7.31731536291363],[72.39665774805667,-7.30486419072975],[72.38819420669734,-7.30250416463542],[72.37924238382902,-7.29680754942882],[72.35767662947291,-7.26832447699297],[72.37094160177355,-7.27019622157832],[72.42017662934802,-7.30388762771179],[72.43287194138702,-7.31609465914119],[72.43897545665203,-7.34026458034606]]],[[[72.47535241018562,-7.3527971330812],[72.47901451880506,-7.36191171705207],[72.47494550922795,-7.3565406231512],[72.47046959689442,-7.34889088280795],[72.46802819114816,-7.3405901016518],[72.47071373854823,-7.33318450296241],[72.48650149804575,-7.30242278408417],[72.47722415477097,-7.27841562308248],[72.45679772183746,-7.25514088254562],[72.43970787891556,-7.22673919066108],[72.45045006581796,-7.23414478935052],[72.48422285250268,-7.2782528628793],[72.49463951899867,-7.2961565077166],[72.48959394640355,-7.30982838277362],[72.4793400401108,-7.32317473742415],[72.47380618600675,-7.34002044049089],[72.47429446751573,-7.34693775767135],[72.47535241018562,-7.3527971330812]]],[[[71.36207115965635,-6.65292734192326],[71.35523522212787,-6.65634530978815],[71.35173587281236,-6.65569426897531],[71.35035240973599,-6.65349700308417],[71.35035240973599,-6.65252044096553],[71.36207115965635,-6.65292734192326]]],[[[71.26482181097788,-6.38591887735424],[71.26140384221361,-6.38860442475436],[71.26099694125588,-6.3780249980552],[71.26238040523157,-6.37395598757871],[71.26734459727538,-6.37004973730547],[71.26880944090306,-6.37810637770713],[71.26758873802987,-6.38274504934452],[71.26482181097788,-6.38591887735424]]],[[[71.35108483199946,-6.2002906223143],[71.34473717508064,-6.20484791429976],[71.33838951906114,-6.19589609143145],[71.34229576933433,-6.18808359178428],[71.34701582152297,-6.18222421637444],[71.35328209699122,-6.1783993466525],[71.36052493637675,-6.17734140398255],[71.35670006575549,-6.18873463259717],[71.35108483199946,-6.2002906223143]]],[[[71.77418053470399,-5.43808359148449],[71.77320397168597,-5.44019947682438],[71.76465904977539,-5.43385182080482],[71.76238040513164,-5.43173593456567],[71.77173912895768,-5.43336353929584],[71.77458743566166,-5.43572356539016],[71.77418053470399,-5.43808359148449]]],[[[72.22291100403964,-5.32773202890996],[72.22144616041203,-5.32781340856189],[72.23096764444131,-5.31926848755063],[72.22828209704119,-5.32480234165467],[72.22535240978596,-5.32724374740098],[72.22291100403964,-5.32773202890996]]],[[[71.73894290529091,-5.28492603970494],[71.73707115980625,-5.28525156011136],[71.74708092534451,-5.26995208032417],[71.74545332151365,-5.27874114388862],[71.7423608731558,-5.28313567477153],[71.73894290529091,-5.28492603970494]]],[[[71.7664494147088,-5.23919036234531],[71.76449629047147,-5.23967864385429],[71.76270592553811,-5.23796965857287],[71.76026451889248,-5.2365861954965],[71.76856530004864,-5.23414478975019],[71.7664494147088,-5.23919036234531]]],[[[71.96615644576343,-5.23170338310462],[71.96615644576343,-5.23479583056309],[71.96461022248383,-5.23235442481678],[71.96273847699916,-5.23121510159564],[71.9616805352286,-5.23007577837444],[71.96273847699916,-5.22698333091591],[71.96648196706917,-5.22747161242495],[71.96705162912946,-5.22918059680705],[71.96615644576343,-5.23170338310462]]]],"type":"MultiPolygon"}
+}
