@@ -464,6 +464,9 @@
         "wof:parent_id"
     ],
     "wof:country":"IO",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"2b07ae00e0ec451e264446c39662b31d",
     "wof:hierarchy":[
         {
@@ -473,7 +476,7 @@
         }
     ],
     "wof:id":85632641,
-    "wof:lastmodified":1561766517,
+    "wof:lastmodified":1582381171,
     "wof:name":"Diego Garcia NSF",
     "wof:parent_id":136253057,
     "wof:placetype":"dependency",

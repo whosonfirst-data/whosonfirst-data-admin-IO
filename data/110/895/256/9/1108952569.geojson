@@ -35,6 +35,9 @@
     "wof:capital_of":85632495,
     "wof:concordances":{},
     "wof:country":"IO",
+    "wof:geom_alt":[
+        "mz"
+    ],
     "wof:geomhash":"fffa541c4fedab49afe744210d0100da",
     "wof:hierarchy":[
         {
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1108952569,
-    "wof:lastmodified":1566713765,
+    "wof:lastmodified":1582381171,
     "wof:name":"Camp Justice",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
